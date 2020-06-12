@@ -418,6 +418,7 @@ svg.ui-ux circle {
 }
 .portfolio-section .mixitup-control-active {
     background: #fff;
+    margin-top: 10px;
 }
 .testimonial {
     background: -webkit-gradient(linear, left top, left bottom, from(rgba(215, 70, 128, 0.9)), to(rgba(215, 70, 128, 0.9))), url(img/portfolio-bg.jpg);
